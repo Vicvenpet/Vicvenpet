@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <b><a href="https://vicvenpet.xyz">Website Contact</a> • <a href="https://github.com/webforged">Github Organization</a></b>
+    <b><a href="https://webforged.cc">Website Contact</a> • <a href="https://github.com/webforged">Github Organization</a></b>
 </p>
 
 <p align="center">
@@ -18,4 +18,4 @@
 
 ### Contact
 
-You can contact me at <b><a href="https://x.com/vicvenpet">Twitter</a></b> or <b><a href="maito:hello@vicvenpet.xyz">hello@vicvenpet.xyz</a></b>
+You can contact me at <b><a href="https://x.com/vicvenpet">Twitter</a></b> or <b><a href="maito:victor@webforged.cc">victor@webforged.cc</a></b>
